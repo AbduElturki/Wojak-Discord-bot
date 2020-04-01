@@ -3,8 +3,8 @@
 The bot fetches an image from [Wojak meme collection at memeatlas](https://www.memeatlas.com/wojak-memes.html) and posts it to your discord server.
 
 There are currently two commands:
-* `!wojak` posts a random wojak image.
-* `!wojak <Name>` where `<Name>` is wojak image name from prior mentioned collection. If the name doesn't match the script will try to find the closet name possible.
++ `!wojak` posts a random wojak image.
++ `!wojak <Name>` where `<Name>` is wojak image name from prior mentioned collection. If the name doesn't match the script will try to find the closet name possible.
 
 ## Why did you make?
 I got bored and it took no time.
