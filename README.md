@@ -8,7 +8,7 @@ The bot fetches an image from [Wojak meme collection at memeatlas](https://www.m
 
 There are currently two commands:
 + `!wojak` posts a random wojak image.
-+ `!wojak <Name>` where `<Name>` is wojak image name from prior mentioned collection. If the name doesn't match the script will try to find the closet name possible.
++ `!wojak <Name>` where `<Name>` is wojak image name from prior mentioned collection. If the name doesn't match an image from mematlas collection, then the script will try to find the closet name possible.
 
 ## Why did you make this bot?
 I got bored and it took no time.
